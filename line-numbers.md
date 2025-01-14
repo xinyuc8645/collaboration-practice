@@ -8,7 +8,7 @@ I Love dogs 7
 #### 8
 GitHub is really awesome 9
 #### 10
-I love staying at home 11
+I hate staying at home
 #### 12
 #### 13
 #### 14
